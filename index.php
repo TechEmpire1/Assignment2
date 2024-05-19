@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>About</title>
+  <title>Index</title>
   <meta name="description" content="cutting-edge IT solutions to businesses of all sizes" />
   <meta name="author" content="Thupten" />
   <link rel="icon" type="image/png" href="./src/TechNova.png" />
